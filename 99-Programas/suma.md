@@ -1,6 +1,28 @@
-# Tabla de Categorías Léxicas
+## Ejemplos de funcionamiento de suma.c
 
+```bash
+> gcc suma.c -o suma
 
+> .\suma.exe
+uso: suma nro1 nro2
+
+> .\suma.exe 1
+uso: suma nro1 nro2
+
+> .\suma.exe 1 3
+la suma de 1 y 3 es 4  
+
+> .\suma.exe 400 400
+la suma de 400 y 400 es 800  
+
+> .\suma.exe 1 a
+nro1 y nro2 deben ser constantes numericas  
+
+> .\suma.exe 1 2a
+nro1 y nro2 deben ser constantes numericas  
+```
+
+## Tabla de Categorías Léxicas
 <center>
 
 
